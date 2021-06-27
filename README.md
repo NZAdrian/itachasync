@@ -19,7 +19,7 @@ To install the platform in Home Assistant
 The Home Assistant platform works the same way as the itach platform documented here https://www.home-assistant.io/integrations/itach/, except the platform name is itachpyasync
 
     remote:
-    - platform: itach
+    - platform: itachpyasync
         host: itach023fdc
     ...
 License
