@@ -1,0 +1,7 @@
+{
+  "domain": "itachpyasync",
+  "name": "Global Caché iTach TCP/IP to IR Python Library",
+  "documentation": "https://www.home-assistant.io/integrations/itach",
+  "codeowners": [ "@NZAdrian" ],
+  "version": "0.00.1"
+}
